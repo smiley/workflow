@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!python3
 import click
 import datetime
 import os
